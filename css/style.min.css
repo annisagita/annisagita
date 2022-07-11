@@ -7,7 +7,6 @@ html {
   overflow-x: hidden; }
 
 body {
-  background-image: url(./../img/photo-4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -26,8 +25,8 @@ body {
     opacity: .8;
     z-index: -1;
     background: #231a06;
-    background: -webkit-linear-gradient(to right, #71f519, #231a06);
-    background: linear-gradient(to right, #71f519, #231a06);} 
+    background: -webkit-linear-gradient(to right, #ac7c0c, #231a06);
+    background: linear-gradient(to right, #ac7c0c, #231a06); } 
 
 .boxed-page {
   margin: 0 auto;
