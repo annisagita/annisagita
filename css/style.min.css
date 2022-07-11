@@ -24,8 +24,7 @@ body {
     height: 100%;
     position: fixed;
     opacity: .8;
-    z-index: -1;
-    background: #f12711; }
+    z-index: -1;}
 
 .boxed-page {
   margin: 0 auto;
