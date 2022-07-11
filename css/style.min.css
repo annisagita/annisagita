@@ -26,8 +26,8 @@ body {
     opacity: .8;
     z-index: -1;
     background: #231a06;
-    background: -webkit-linear-gradient(to right, #f5b319, #231a06);
-    background: linear-gradient(to right, #f5b319, #231a06); } 
+    background: -webkit-linear-gradient(to right, #71f519, #231a06);
+    background: linear-gradient(to right, #71f519, #231a06);} 
 
 .boxed-page {
   margin: 0 auto;
