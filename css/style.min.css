@@ -2,7 +2,7 @@
  * Moon by GetTemplates.co
  * URL: https://gettemplates.co
  */
-html {
+ html {
   font-size: 62.5%;
   overflow-x: hidden; }
 
@@ -136,25 +136,25 @@ a:hover {
   background: transparent; }
 
 .btn-link {
-  color: #f1bb5e; }
+  color: #d0a851; }
   .btn-link:hover {
     text-decoration: none; }
 
 .color-primary {
-  color: #f1bb5e; }
+  color: #d0a851; }
 
 /* Colours */
 .text-orange {
-  color: #FDBA51; }
+  color: #d0a851; }
 
 .text-cyan {
-  color: #47b835; }
+  color: #d0a851; }
 
 .text-red {
   color: #d0a851; }
 
 a {
-  color: #f1bb5e; }
+  color: #d0a851; }
 
 .fs-40 {
   font-size: 40px; }
@@ -175,12 +175,12 @@ a {
   transform: translateY(-1px); }
 
 .btn-orange {
-  background-color: #FDBA51 !important;
+  background-color: #d0a851 !important;
   color: #fff !important;
   border: none !important; }
 
 .btn-cyan {
-  background-color: #47b835 !important;
+  background-color: #d0a851 !important;
   color: #fff !important;
   border: none !important; }
 
@@ -419,12 +419,12 @@ footer {
   height: 38px;
   font-weight: 300; }
   .form-control:focus {
-    border-color: #f1bb5e;
+    border-color: #d0a851;
     box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
 
 #gtco-contact-form form label.error {
   margin-bottom: 15px;
-  color: #f1bb5e;
+  color: #d0a851;
   font-size: 1.4rem; }
 
 .form-control::-webkit-input-placeholder {
