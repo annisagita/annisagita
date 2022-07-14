@@ -1,0 +1,195 @@
+<html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Annisa Gita</title>
+    <meta name="description" content="Core HTML Project">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/select2/select2.min.css">
+    <link rel="stylesheet" href="vendor/owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/lightcase/lightcase.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400|Work+Sans:300,400,700" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+    <link href="https://file.myfontastic.com/7vRKgqrN3iFEnLHuqYhYuL/icons.css" rel="stylesheet">
+
+    <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+
+</head>
+<body data-spy="scroll" data-target="#navbar-nav-header" class="static-layout" data-new-gr-c-s-check-loaded="14.1067.0" data-gr-ext-installed="">
+	<div class="boxed-page">
+		<nav class="navbar navbar-expand-lg py-5" id="gtco-header-navbar">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+		<h5>Annisa Gita Asmara</h5>
+        </a> 
+    </div>
+    
+</nav>		
+<!-- Title Portfolio -->
+<section id="gtco-counter" class="overlay bg-fixed">
+    <div class="container">
+        <div class="section-content center">
+            <br><br><br>
+                <!-- Counter Item -->
+                <div class="text-center counter-item">
+                    <i class="lnr lnr-briefcase"></i><br><br>
+                    
+                    <h2><b>MY PORTFOLIO</b></h2>
+                    <h5>Here are some examples of my work.</h5>
+                </div>
+                <!-- End of Counter Item -->
+        </div>
+    </div>
+</section>
+<!-- end of Title Portfolio -->
+				
+<!-- Preview Work -->
+<section id="gtco-section-featurettes" class="featurettes bg-white">
+<br><br>
+    <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-left">
+                    <!-- preview left -->
+<div class="row featurettes-item">
+
+                            <div class="col-md-4-md-2 col-sm-7">
+                                <br><br><img alt="sipencatar2021" src="img/sipencatar.png">
+                            </div>
+
+                            <div class="col-md-4-md-2 col-sm-5">
+    <div class="card-body p-4">
+        <h4 class="mb-4">Product : Schoolpad</h4>
+                                <p>this platform is all one solution for Indonesian education online test, we help to re-made the App with new technology, added some new features, and created new test types.</p>
+                                <a href="sipencatar.html" class="btn btn-block btn-secondary btn-red mt-4">See More &gt;</a>
+    </div>
+</div>
+
+                        </div>
+                    <br>
+                </div>
+            </div>
+<!--end of preview left -->
+
+<!-- preview right -->
+
+<div class="row">
+                <div class="col-md-12 text-left">
+<div class="row featurettes-item">
+
+                            <div class="col-md-4-md-2 col-sm-5">
+    <div class="card-body p-4">
+        <h4 class="mb-4">Product : Schoolpad</h4>
+                                <p>this platform is all one solution for Indonesian education online test, we help to re-made the App with new technology, added some new features, and created new test types.</p>
+                                <a href="schoolpad.html" class="btn btn-block btn-secondary btn-red mt-4">See More &gt;</a>
+    </div>
+</div>
+
+                            <div class="col-md-4-md-right-2 col-sm-7">
+    <br><br>
+                                <img alt="schoolpad" src="img/schoolpad.JPG">
+                            </div>
+
+                        </div>
+                    <br><br>
+                </div>
+
+            </div>
+<!--end of preview right -->
+    </div>
+<!-- end ofPreview Work -->
+
+<!-- white overlay text -->
+</section>
+<div class="section-content center">
+            <br><br>
+                <!-- Counter Item -->
+                <div class="text-center counter-item">
+                    <h2 class="section-title">
+                            <b>Other Project</b> is privat project</h2>
+                        <p class="section-sub-title">so i can't tell any more in here, if you want more let's contact me</p>
+                </div>
+                <!-- End of Counter Item -->
+</div>
+<!-- end of white overlay text -->
+<!-- Contact me -->
+<section id="gtco-client" class="bg-grey">
+    <div class="container">
+        <div class="section-content">
+            <!-- Section Title -->
+            <div class="title-wrap">
+                <h2 class="section-title">
+                   Let's <b>Connect </b> with me
+                </h2>
+            </div>
+            <!-- End of Section Title -->
+    <div class="row">
+            <div class="col-md-5 col-sm-5 ">
+        </div>    
+    <div class="col-md-2 col-sm-2 text-center">
+            <a class="nav-link" href="https://www.linkedin.com/in/annisagita/">
+	                	<i class="icon-linkedin"></i>
+	        </a>
+        </div>
+        <div class="col-md-5 col-sm-5 ">
+        </div>
+    </div>
+<p class="text-center">Please feel free to reach out.</p>
+<p class="text-center">I am open to chatting about work or side projects opportunities, sharing my feedback or input, and really anything... </p>
+<p class="text-center">As always, I’ll my best to answer you in a timely. Cheers.</p>
+    <div class="row">
+            <div class="col-md-4 col-sm-4 ">
+        </div>    
+    <div class="col-md-4 col-sm-4 text-right ">
+           <a href="mailto:annisagita.work@gmail.com" class="btn btn-block btn-secondary btn-red mt-4">Contact Me</a>
+        </div>
+        <div class="col-md-4 col-sm-4 ">
+        </div>
+    </div>
+    
+</div>  
+    </div>
+</section>
+<!-- end of Contact me -->
+
+<!-- End of Client Section -->		<footer class="mastfoot bg-white py-4 border-top">
+    <div class="text-center">
+    <p class="mb-0">© 2019 Moon. All Right Reserved. Design by <a href="https://gettemplates.co" target="_blank">GetTemplates.co</a>.</p>
+    </div>
+</footer>	</div>
+	
+
+	<!-- External JS -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+	<script src="vendor/bootstrap/popper.min.js"></script>
+	<script src="vendor/bootstrap/bootstrap.min.js"></script>
+	<script src="vendor/select2/select2.min.js "></script>
+	<script src="vendor/owlcarousel/owl.carousel.min.js"></script>
+	<script src="vendor/isotope/isotope.min.js"></script>
+	<script src="vendor/lightcase/lightcase.js"></script>
+	<script src="vendor/waypoints/waypoint.min.js"></script>
+	<script src="vendor/countTo/jquery.countTo.js"></script>
+
+	<!-- Main JS -->
+	<script src="js/app.min.js "></script>
+	<script src="//localhost:35729/livereload.js"></script>
+
+
+
+
+
+
+
+<div id="weava-permanent-marker" date="1657786561490"></div><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+
+<div id="weava-ui-wrapper"><div class="weava-drop-area-wrapper"><div class="weava-drop-area"></div>
+<div class="weava-drop-area-text">Drop here!</div>
+</div></div></body></html>
